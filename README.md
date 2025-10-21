@@ -24,21 +24,18 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
 
 - 🔭 Working on: multi-agent flows; RAG with reranking & faithfulness checks  
 - 🌱 Learning: AWS deployment patterns, auth/rate-limits, clean API design (FastAPI/REST)  
-- 💬 Ask me about: LangGraph agents, RAG, AWS .
+- 💬 Ask me about: LangGraph agents, RAG, AWS  
 - 📫 Contact: <yi559668@gmail.com>
 
 ---
 
 ### 🧰 Tech I use
-<!-- Tech I use -->
 <p>
-  <!-- skillicons: use only supported slugs -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,flask,aws,docker,linux,git,github,sqlite,mysql,postgres,vscode&perline=12" />
   </a>
 </p>
 
-<!-- Framework / provider badges (edit freely; keep only what you really use) -->
 <p>
   <img src="https://img.shields.io/badge/LangGraph-18181b?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-18181b" />
@@ -47,6 +44,7 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
   <img src="https://img.shields.io/badge/AWS%20Bedrock-18181b?logo=amazonaws&logoColor=white" />
 </p>
 
+---
 
 ### 🚀 Featured work (pin these)
 - **Gold Price Reporter** — LangGraph multi-agent flow (Arabic UI, Streamlit)
@@ -58,12 +56,19 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
 
 > Profile → **Customize profile** → **Pinned repositories** → choose 4–6.
 
- Optional: repo cards (uncomment + set exact repo slugs)
+<!-- Optional: repo cards (uncomment + set exact repo slugs)
 <div align="center">
-  <a href="https://github.com/youssef2323/<repo_slug_1>"><img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=youssef2323&repo=search-engine-with-tools-and-agents&theme=transparent&hide_border=true"></a>
-  <a href="[https://github.com/youssef2323/<repo_slug_2>](https://github.com/youssef2323/medical-rag-assistant-readme)"><img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=youssef2323&repo=<repo_slug_2>&theme=transparent&hide_border=true"></a>
+  <a href="https://github.com/youssef2323/<repo_slug_1>"><img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=youssef2323&repo=<repo_slug_1>&theme=transparent&hide_border=true"></a>
+  <a href="https://github.com/youssef2323/<repo_slug_2>"><img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=youssef2323&repo=<repo_slug_2>&theme=transparent&hide_border=true"></a>
 </div>
+-->
 
+---
+
+### 🧭 How I work
+- **Eval-first**: retrieval quality & faithfulness checks, not just pretty demos  
+- **Observable**: traces & metrics surfaced for latency/cost; failure paths handled  
+- **Composable**: small graphs & tools rather than giant monoliths
 
 ---
 
