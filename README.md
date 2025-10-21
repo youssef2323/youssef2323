@@ -67,13 +67,6 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
 
 ---
 
-### 🧭 How I work
-- **Eval-first**: retrieval quality & faithfulness checks, not just pretty demos  
-- **Observable**: traces & metrics surfaced for latency/cost; failure paths handled  
-- **Composable**: small graphs & tools rather than giant monoliths
-
----
-
 ### 🐍 Contributions
 <!-- Works after the workflow (below) runs once -->
 <p align="center">
