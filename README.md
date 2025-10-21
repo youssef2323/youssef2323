@@ -61,7 +61,7 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
  Optional: repo cards (uncomment + set exact repo slugs)
 <div align="center">
   <a href="https://github.com/youssef2323/<repo_slug_1>"><img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=youssef2323&repo=search-engine-with-tools-and-agents&theme=transparent&hide_border=true"></a>
-  <a href="https://github.com/youssef2323/<repo_slug_2>"><img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=youssef2323&repo=<repo_slug_2>&theme=transparent&hide_border=true"></a>
+  <a href="[https://github.com/youssef2323/<repo_slug_2>](https://github.com/youssef2323/medical-rag-assistant-readme)"><img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=youssef2323&repo=<repo_slug_2>&theme=transparent&hide_border=true"></a>
 </div>
 
 
