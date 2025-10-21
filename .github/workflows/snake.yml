@@ -2,10 +2,10 @@ name: generate-contribution-snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches: [ "main" ]
+    branches: [ "main" ]   # change to "master" if that's your default
 
 permissions:
   contents: write
