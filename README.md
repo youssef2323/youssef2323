@@ -1,139 +1,83 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Youssef%20Ismail&fontSize=42&fontAlignY=35&animation=fadeIn" alt="Youssef Ismail banner" />
+</p>
+
+<!-- Hero -->
 <div align="center">
+  <!-- Typing headline -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2600&pause=800&center=true&vCenter=true&width=860&lines=LangGraph+multi-agent+systems;RAG:+retrieval+%2B+reranking+%2B+evaluation;Building+practical+AI+apps;Learning+AWS+services+%26+deployment;Learning+AI+systems" alt="Typing SVG" />
+  <br/>
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey, I'm Youssef
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=600&lines=Building+AI+systems+that+ship;Multi-agent+flows+%E2%80%A2+RAG+%E2%80%A2+AWS;F1+79.3+on+Medical+RAG+%F0%9F%94%A5;LangGraph+%E2%80%A2+Claude+%E2%80%A2+Bedrock" alt="Typing SVG" />
-
-<br/>
-
-[![Email](https://img.shields.io/badge/📧-yi559668@gmail.com-0EA5E9?style=for-the-badge&labelColor=000000)](mailto:yi559668@gmail.com)
-[![AWS](https://img.shields.io/badge/☁️_AWS-Certified-FF9900?style=for-the-badge&labelColor=000000)](https://aws.amazon.com/verification)
-
+  <!-- Focus / Learning badges -->
+  <img alt="focus-agents" src="https://img.shields.io/badge/Focus-LangGraph%20Agents-2b6cb0?style=flat&labelColor=0f172a">
+  <img alt="focus-rag" src="https://img.shields.io/badge/Focus-RAG%20Pipelines-0ea5e9?style=flat&labelColor=0f172a">
+  <img alt="learning" src="https://img.shields.io/badge/Learning-AWS%20services%20%26%20deployment-22c55e?style=flat&labelColor=0f172a">
+  <img alt="learning-ai" src="https://img.shields.io/badge/Learning-AI%20(systems%20%26%20evals)-f59e0b?style=flat&labelColor=0f172a">
 </div>
-
-<br/>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/F1_Score-79.3-22C55E?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=000000" />
-<br/><sub><b>Medical RAG on LitQA v2</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Projects-10+-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-<br/><sub><b>Shipped & deployed</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/GPA-3.47/4.0-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=000000" />
-<br/><sub><b>Distinction with Honors</b></sub>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-## 🎯 What I Do
-
-> Building **production-ready AI systems** with LangGraph, RAG pipelines, and AWS. Not demos—real apps with metrics that matter.
-
-<br/>
-
-<div align="center">
-
-### 🚀 Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🪙 Gold Price Reporter
-**Multi-agent LangGraph system**
-
-3-agent flow (search → fetch → report) with Arabic UI. Zero currency drift, transparent CSV exports.
-
-`LangGraph` `Multi-Agent` `Groq`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏥 Medical RAG Assistant
-**F1: 79.3 • EM: 69.4 on LitQA v2**
-
-Hybrid retrieval + reranking + context compression. Dual-mode: accuracy vs speed.
-
-`RAG` `FAISS` `GPT-4`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📄 PDF Chat (Bedrock)
-**Claude/Mistral toggle**
-
-Titan Embeddings + FAISS with persistent storage. Deployed on EC2.
-
-`AWS Bedrock` `Claude` `Mistral`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🚀 Serverless Blog API
-**Full AWS serverless**
-
-API Gateway → Lambda → Bedrock → S3. IAM roles + CloudWatch logging.
-
-`Lambda` `Bedrock` `S3`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 💻 Tech Arsenal
-
-<img src="https://skillicons.dev/icons?i=python,aws,docker,git,fastapi,flask,postgres,linux&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=0EA5E9" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=0EA5E9" />
-<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-## 🧭 How I Work
-
-**Eval-first** • **Observable** • **Ship-ready**
-
-_Metrics before demos. Traces before launches. Small graphs over monoliths._
-
-<br/>
 
 ---
 
-<br/>
+### 👋 About me
+I build **agentic** and **RAG** systems that are **observable**, **evaluation-driven**, and **easy to ship**.  
+Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda · S3 · Bedrock) and **AI systems** end-to-end.
 
-<sub>💬 Open to collabs • ⭐ Star if you find anything useful</sub>
+- 🔭 Working on: multi-agent flows; RAG with reranking & faithfulness checks  
+- 🌱 Learning: AWS deployment patterns, auth/rate-limits, clean API design (FastAPI/REST)  
+- 💬 Ask me about: LangGraph agents, RAG, AWS .
+- 📫 Contact: <yi559668@gmail.com>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:22C55E&height=120&section=footer" />
+### 🧰 Tech I use
+<!-- Icons row: keep ONLY what you really use -->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,flask,docker,AWS,langchain,langgraph,git,github,mysql,sqlite,vscode&perline=12" />
+  </a>
+</p>
 
+<!-- Framework / provider badges (edit freely) -->
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-18181b?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-18181b" />
+  <img src="https://img.shields.io/badge/FAISS-18181b" />
+  <img src="https://img.shields.io/badge/Groq-18181b" />
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-18181b?logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured work (pin these)
+- **Gold Price Reporter** — LangGraph multi-agent flow (Arabic UI, Streamlit)
+- **Medical RAG Assistant** — Hybrid retrieval + evaluation harness (LitQA-style)
+- **News Research Tool** — URL → embeddings → Q&A with sources (FAISS + Streamlit)
+- **Chat with Search** — ReAct agent choosing web/arXiv/Wikipedia (Groq + Streamlit)
+- **Chat with PDF** — Bedrock (Titan + FAISS) with Claude/Mistral toggle
+- **Chat with SQL DB** — SQL Agent over SQLite/MySQL with Groq
+
+> Profile → **Customize profile** → **Pinned repositories** → choose 4–6.
+
+ Optional: repo cards (uncomment + set exact repo slugs)
+<div align="center">
+  <a href="https://github.com/youssef2323/<repo_slug_1>"><img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=youssef2323&repo=search-engine-with-tools-and-agents&theme=transparent&hide_border=true"></a>
+  <a href="https://github.com/youssef2323/<repo_slug_2>"><img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=youssef2323&repo=<repo_slug_2>&theme=transparent&hide_border=true"></a>
 </div>
+
+
+---
+
+### 🐍 Contributions
+<!-- Works after the workflow (below) runs once -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youssef2323/youssef2323/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssef2323/youssef2323/output/snake-light.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/youssef2323/youssef2323/output/snake-light.svg" />
+  </picture>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <sub>Thanks for stopping by ✨</sub>
+</p>
