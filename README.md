@@ -25,7 +25,7 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
 - 🔭 Working on: multi-agent flows; RAG with reranking & faithfulness checks  
 - 🌱 Learning: AWS deployment patterns, auth/rate-limits, clean API design (FastAPI/REST)  
 - 💬 Ask me about: LangGraph agents, RAG, Streamlit prototypes  
-- 📫 Contact: <your-email@example.com>
+- 📫 Contact: <yi559668@gmail.com>
 
 ---
 
@@ -33,7 +33,7 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
 <!-- Icons row: keep ONLY what you really use -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,flask,docker,linux,git,github,mysql,sqlite,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,flask,docker,AWS,langchain,langgraph,git,github,mysql,sqlite,vscode&perline=12" />
   </a>
 </p>
 
