@@ -30,14 +30,15 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
 ---
 
 ### 🧰 Tech I use
-<!-- Icons row: keep ONLY what you really use -->
+<!-- Tech I use -->
 <p>
+  <!-- skillicons: use only supported slugs -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,flask,docker,AWS,langchain,langgraph,git,github,mysql,sqlite,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,flask,aws,docker,linux,git,github,sqlite,mysql,postgres,vscode&perline=12" />
   </a>
 </p>
 
-<!-- Framework / provider badges (edit freely) -->
+<!-- Framework / provider badges (edit freely; keep only what you really use) -->
 <p>
   <img src="https://img.shields.io/badge/LangGraph-18181b?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-18181b" />
@@ -46,7 +47,6 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
   <img src="https://img.shields.io/badge/AWS%20Bedrock-18181b?logo=amazonaws&logoColor=white" />
 </p>
 
----
 
 ### 🚀 Featured work (pin these)
 - **Gold Price Reporter** — LangGraph multi-agent flow (Arabic UI, Streamlit)
