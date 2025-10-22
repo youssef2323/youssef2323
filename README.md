@@ -33,7 +33,7 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
 <!-- Icons: list only what you really use -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,langchain,fastapi,flask,aws,docker,linux,git,github,sqlite,mysql,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,aws,docker,linux,git,github,sqlite,mysql,vscode&perline=12" />
   </a>
 </p>
 
