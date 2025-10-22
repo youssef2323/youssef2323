@@ -58,16 +58,16 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
 - **Serverless Blog Generator** — API Gateway → Lambda → Bedrock → S3
 - **Summarize YouTube/Website** — URL loader → concise brief via Groq
 
-> Profile → **Customize profile** → **Pinned repositories** → choose 4–6 that you want shown.
+<!-- > Profile → **Customize profile** → **Pinned repositories** → choose 4–6 that you want shown.
+-->
 
-<!-- Optional: repo cards (uncomment + set exact repo slugs)
+<!--Optional: repo cards (uncomment + set exact repo slugs)
 <div align="center">
   <a href="https://github.com/youssef2323/<repo_slug_1>"><img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=youssef2323&repo=<repo_slug_1>&theme=transparent&hide_border=true"></a>
   <a href="https://github.com/youssef2323/<repo_slug_2>"><img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=youssef2323&repo=<repo_slug_2>&theme=transparent&hide_border=true"></a>
 </div>
--->
 
----
+--->
 
 
 ### 🐍 Contributions
