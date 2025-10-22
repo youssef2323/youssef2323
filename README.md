@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Youssef%20Ismail&fontSize=42&fontAlignY=35&animation=fadeIn" alt="Youssef Ismai banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Youssef%20Ismai&fontSize=42&fontAlignY=35&animation=fadeIn" alt="Youssef Ismail banner" />
 </p>
 
 <!-- Hero -->
