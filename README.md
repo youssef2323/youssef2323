@@ -25,7 +25,7 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
 - 🔭 Working on: multi-agent flows; RAG with reranking & faithfulness checks  
 - 🌱 Learning: AWS deployment patterns, auth/rate-limits, request/response contracts  
 - 💬 Ask me about: LangGraph agents, RAG, Streamlit prototypes  
-- 📫 Contact: <your-email@example.com>
+- 📫 Contact: <yi559668@gmail.com>
 
 ---
 
