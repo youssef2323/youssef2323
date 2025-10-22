@@ -49,8 +49,8 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
 ---
 
 ### 🚀 Featured work 
-- **Gold Price Reporter** — LangGraph multi-agent flow (Arabic UI, Streamlit)
 - **Medical RAG Assistant** — Hybrid retrieval + evaluation harness
+- **Gold Price Reporter** — LangGraph multi-agent flow (Arabic UI, Streamlit)
 - **News Research Tool** — URL → embeddings → Q&A with sources (FAISS + Streamlit)
 - **Chat with Search** — ReAct agent choosing web/arXiv/Wikipedia (Groq + Streamlit)
 - **Chat with PDF** — Bedrock (Titan + FAISS) with Claude/Mistral toggle
