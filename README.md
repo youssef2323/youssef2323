@@ -48,7 +48,7 @@ Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda �
 
 ---
 
-### 🚀 Featured work (pin these)
+### 🚀 Featured work 
 - **Gold Price Reporter** — LangGraph multi-agent flow (Arabic UI, Streamlit)
 - **Medical RAG Assistant** — Hybrid retrieval + evaluation harness
 - **News Research Tool** — URL → embeddings → Q&A with sources (FAISS + Streamlit)
