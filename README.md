@@ -23,7 +23,7 @@ I build **agentic** and **RAG** systems that are **observable**, **evaluation-dr
 Right now I’m exploring **AWS services & deployment** (API Gateway · Lambda · S3 · Bedrock) and **FastAPI** for clean, reliable APIs.
 
 - 🔭 Working on: multi-agent flows; RAG with reranking & faithfulness checks  
-- 🌱 Learning: AWS deployment patterns, auth/rate-limits, request/response contracts  
+- 🌱 Learning: AWS deployment ,AWS services, Fastapi, Langgraph 
 - 💬 Ask me about: LangGraph agents, RAG, Streamlit prototypes  
 - 📫 Contact: <yi559668@gmail.com>
 
