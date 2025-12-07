@@ -5,8 +5,8 @@
 
 <!-- Hero -->
 <div align="center">
-  <!-- Typing headline (general + true to your work) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2600&pause=900&center=true&vCenter=true&width=860&lines=LangGraph+multi-agent+systems;RAG:+retrieval+%2B+reranking+%2B+evaluation;Building+practical+AI+apps;Learning+AWS+services+%26+deployment;Learning+FastAPI+%26+AI%20systems" alt="Typing SVG" />
+  <!-- Typing headline -->
+  <img src="https://readme-typing-svg.demolab.com?..." alt="Typing SVG" />
   <br/>
 
   <!-- Focus / Learning badges -->
@@ -14,7 +14,12 @@
   <img alt="focus-rag" src="https://img.shields.io/badge/Focus-RAG%20Pipelines-0ea5e9?style=flat&labelColor=0f172a">
   <img alt="learning" src="https://img.shields.io/badge/Learning-AWS%20services%20%26%20deployment-22c55e?style=flat&labelColor=0f172a">
   <img alt="learning-fastapi" src="https://img.shields.io/badge/Learning-FastAPI%20%26%20API%20design-f59e0b?style=flat&labelColor=0f172a">
+  <br/><br/>
+
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=youssef2323&style=flat-square&color=0ea5e9" alt="Profile views" />
 </div>
+
 
 ---
 
